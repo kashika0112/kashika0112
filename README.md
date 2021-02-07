@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 
+<p> I am Kashika, a B.Tech CSAI student currently devoted to exploring different domains and learning new technologies!!
 
 <!--
 **kashika0112/kashika0112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
