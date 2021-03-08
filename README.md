@@ -1,5 +1,7 @@
 ### Hi there 👋 
 <p> I am Kashika, a B.Tech CSAI student currently devoted to exploring different domains and learning new technologies!! Curious about Open-Source and ML/AI!
+  
+  Read my Blog here-:https://kashika0112.medium.com/
 
 <!--
 **kashika0112/kashika0112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
