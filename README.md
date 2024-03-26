@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Machine Learning, Web Development and DSA**
 
-- 📝 I regularly write articles on [https://kashika0112.medium.com/](https://kashika0112.medium.com/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
